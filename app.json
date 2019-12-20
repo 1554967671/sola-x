@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/home/home"
+    "pages/test/test",
+    "pages/my/my"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -19,16 +20,16 @@
         "pagePath": "pages/index/index",
         "text": "学习",
         "iconPath": "images/xuexi.png",
-        "selectedIconPath":"images/xuexi1.png"
+        "selectedIconPath": "images/xuexi1.png"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/test/test",
         "text": "测试",
         "iconPath": "images/ceshi.png",
         "selectedIconPath": "images/ceshi1.png"
       },
       {
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/my/my",
         "text": "我的",
         "iconPath": "images/wo.png",
         "selectedIconPath": "images/wo01.png"
